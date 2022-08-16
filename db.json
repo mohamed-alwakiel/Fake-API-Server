@@ -1,0 +1,37 @@
+{ 
+  "events": [
+        {
+          "id": 2528101,
+          "category": "animal welfare",
+          "title": "cat adoption",
+          "desc": "find your new feline friend",
+          "location": "Meow Town",
+          "date": "january 28, 2022",
+          "time": "12:00",
+          "petsAllowed": true,
+          "organizer": "kat Laydee",
+        },
+        {
+         "id": 2588101,
+          "category": "food",
+          "title": "pizza",
+          "desc": "take your slice",
+          "location": "Meow Town",
+          "date": "january 28, 2022",
+          "time": "12:00",
+          "petsAllowed": true,
+          "organizer": "kat Laydee",
+        },
+        {
+          "id": 2590101,
+          "category": "sports",
+          "title": "pemier league",
+          "desc": "select your favourit team",
+          "location": "Meow Town",
+          "date": "january 28, 2022",
+          "time": "12:00",
+          "petsAllowed": true,
+          "organizer": "kat Laydee",
+        },
+      ],
+}
